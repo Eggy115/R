@@ -1,9 +1,10 @@
 # R
 
-This repository contains R-lang programs and scripts under the GPL v3 license.
+This repository contains R programs and scripts under the GPL v3 license.
 
 ## Table of Contents
-- [Getting Started](#getting-started)     
+- [Getting Started](#getting-started)  
+  - [What is R-Lang](#what-is-r)   
   - [Installing R-Lang](#installing-r-lang)     
     - [Windows](#Windows)     
     - [macOS](#macOS)     
@@ -16,6 +17,12 @@ This repository contains R-lang programs and scripts under the GPL v3 license.
 - [License](#license)
 
 ## Getting Started
+
+### What is R
+
+R (R-Lang) is a programming language and environment for statistical computing and graphics. It provides a wide variety of statistical and graphical techniques, including linear and nonlinear modeling, classical statistical tests, time-series analysis, classification, clustering, and more.
+
+R is free and open-source software and is widely used by statisticians, data scientists, and researchers in various fields, including academia, industry, and government. It is highly extensible and has a large ecosystem of packages and libraries that provide additional functionality and tools for various tasks.
 
 ### Installing R-Lang
 
