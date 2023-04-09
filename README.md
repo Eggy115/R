@@ -4,7 +4,7 @@ This repository contains R programs and scripts under the GPL v3 license.
 
 ## Table of Contents
 - [Getting Started](#getting-started)  
-  - [What is R-Lang](#what-is-r)   
+  - [What is R](#what-is-r)   
   - [Installing R-Lang](#installing-r-lang)     
     - [Windows](#Windows)     
     - [macOS](#macOS)     
