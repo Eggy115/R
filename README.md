@@ -5,9 +5,9 @@ This repository contains R-lang programs and scripts under the GPL v3 license.
 ## Table of Contents
 - [Getting Started](#getting-started)     
   * [Installing R-Lang](#installing-r-lang)     
-    + [Windows](#Windows)     
-    + [macOS](#macOS)     
-    + [Linux](#Linux)     
+    - [Windows](#Windows)     
+    - [macOS](#macOS)     
+    - [Linux](#Linux)     
 - [Installing Repository](#installing)  
 - [Usage](#usage)
   * [Running Scripts](#running-scripts)
