@@ -2,6 +2,16 @@
 
 This repository contains R-lang programs and scripts under the GPL v3 license.
 
+## Table of Contents
+- [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installing](#installing)
+- [Usage](#usage)
+  * [Running Scripts](#running-scripts)
+  * [Running Programs](#running-programs)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Getting Started
 
 ### Prerequisites
