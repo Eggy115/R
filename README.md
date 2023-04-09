@@ -17,7 +17,7 @@ This repository contains R-lang programs and scripts under the GPL v3 license.
 
 ## Getting Started
 
-### Install R-Lang
+### Installing R-Lang
 
 Here are the steps to install R-lang on different operating systems:
 
